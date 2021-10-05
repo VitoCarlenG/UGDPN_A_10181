@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UGDPN_A_10181</string>
+    <string name="title">Title</string>
+    <string name="message">Message</string>
+    <string name="send_on_channel_1">Send on Channel 1</string>
+    <string name="send_on_channel_2">Send on Channel 2</string>
+    <string name="big_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="notifikasi_action_button_color_big_text"><![CDATA[Notifikasi Action Button & Color + Big Text]]></string>
+    <string name="big_picture_style">Big Picture Style</string>
+    <string name="inbox_style">Inbox Style</string>
+    <string name="messaging_style_direct_reply">Messaging Style + Direct Reply</string>
+    <string name="progress_bar_notification">Progress Bar Notification</string>
+    <string name="media_style">Media Style</string>
+</resources>
